@@ -20,7 +20,7 @@ import kotlin.collections.MapsKt;
 public class MainActivity extends AppCompatActivity {
     EditText ID, Nombre, Area;
     ListView Lista;
-    //Primera modificacion
+    //Primera modificacion2
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
