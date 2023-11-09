@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
         CargaUsuarios();
         //comentario en el codigo DFP
         //Forzando error
+        //lo que sea
     }
 
     public void Registrarusuario(View view){
