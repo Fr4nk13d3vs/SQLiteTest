@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
         Lista = findViewById(R.id.ListaUsuarios);
         CargaUsuarios();
         //comentario en el codigo DFP
+        //Forzando error
     }
 
     public void Registrarusuario(View view){
