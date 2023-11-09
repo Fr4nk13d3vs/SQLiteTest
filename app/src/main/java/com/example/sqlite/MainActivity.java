@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
         Area = findViewById(R.id.txtAreaUsuario);
         Lista = findViewById(R.id.ListaUsuarios);
         CargaUsuarios();
+        //comentario en el codigo DFP
     }
 
     public void Registrarusuario(View view){
